@@ -8,5 +8,5 @@ Flask-REST-JSONAPI==0.30.1
 gunicorn==19.7.1
 Flask-Migrate==2.5.2
 dash==1.13.3
-redis==3.3.8
+redis==4.4.4
 Flask-Caching==1.0.0
